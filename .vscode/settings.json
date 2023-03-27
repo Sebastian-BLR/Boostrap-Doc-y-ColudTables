@@ -1,0 +1,17 @@
+{
+    "editor.suggest.insertMode": "replace",
+    "editor.suggest.preview": true,
+    "editor.acceptSuggestionOnEnter": "smart",
+    "emmet.excludeLanguages": [
+        "markdown"
+    ],
+    "emmet.preferences": {},
+    "emmet.showExpandedAbbreviation": "always",
+    "emmet.triggerExpansionOnTab": true,
+    "tailwindCSS.emmetCompletions": true,
+    "emmet.syntaxProfiles": {
+        "php": "html"
+    },
+    "php.format.rules.arrayInitializersAlignKeyValuePairs": false,
+    "editor.fontLigatures": true
+}
